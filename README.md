@@ -1,1 +1,1 @@
-Sample Java Applicaiton V2.2 testing
+Sample Java Applicaiton V2.2 testing twice
